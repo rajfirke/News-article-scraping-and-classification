@@ -72,3 +72,10 @@ pip install requests beautifulsoup4 pandas
 ```
 
 ![Link based classification](News article scraping\Screenshots\Link based classification.png)
+
+
+![KNN classifier](News article scraping\Screenshots\KNN classifier.png)
+
+
+![Final Dataset](News article scraping\Screenshots\Final Dataset.png)
+
