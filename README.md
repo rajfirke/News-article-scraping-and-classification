@@ -20,7 +20,7 @@ This application performs web scraping on the Economics Times website to collect
 2. **Navigate to the project directory:**
 
     ```bash
-    cd -News-article-scraping-and-classification
+    cd News-article-scraping-and-classification
     ```
 
 3. **Install the required Python packages:**
