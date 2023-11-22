@@ -70,7 +70,7 @@ This application extracts news articles from the Economic Times website using we
 ```bash
 pip install requests beautifulsoup4 pandas
 ```
-##screenshots
+# Screenshots
 ![Final Dataset](News%20article%20scraping/Screenshots/Final%20dataset.png)
 
 ![KNN classifier](News%20article%20scraping/Screenshots/KNN%20classifier.png)
