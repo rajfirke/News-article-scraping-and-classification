@@ -75,8 +75,6 @@ pip install requests beautifulsoup4 pandas
     
 ![Final Dataset](News%20article%20scraping/Screenshots/Final%20dataset.png)
 
-![KNN classifier](News%20article%20scraping/Screenshots/KNN%20classifier.png)
-
 ![Link based classification](News%20article%20scraping/Screenshots/Link%20based%20classification.png)
 
 </div>
