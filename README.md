@@ -5,7 +5,7 @@ This application performs web scraping on the Economics Times website to collect
 ## Instructions to Run the Application
 
 ### Prerequisites 
-
+ 
 - Python 3.10 installed
 - Required Python packages installed (`pandas`, `beautifulsoup4`, `KNeighborsClassifier`, `TfidfVectorizer`)
 
