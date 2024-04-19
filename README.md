@@ -2,7 +2,7 @@
 
 This application performs web scraping on the Economics Times website to collect news articles and then applies text classification to categorize the articles into different sections. The classification model is trained using Machine Learning techniques.
 
-## Instructions to Run the Application
+## Instructions to Run the Application 
 
 ### Prerequisites 
  
